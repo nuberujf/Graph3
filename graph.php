@@ -9,3 +9,6 @@ $Align=Align($Align);
 echo "<pre>Alineados: ";
 print_r($Align);
 echo "</pre>";
+
+
+// probando
